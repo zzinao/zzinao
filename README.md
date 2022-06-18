@@ -17,7 +17,7 @@ let zzinao = {
         }
     },
     architecture: ["Serverless Architecture", "Single page applications"],
-    currentFocus: "React, TypeScript", "AWS"
+    currentFocus: ["React, "TypeScript", "AWS"]
     funFact: "I majored Art&Craft and Visual Design in SWU🧐"
 };
 ```
