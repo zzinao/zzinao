@@ -10,7 +10,7 @@ let zzinao = {
     code: ["JavaScript", "HTML", "CSS"],
     technologies: {
         frontEnd: {
-            skills: ["React", "Vanilla JS", "Redux", "styleld-components"],
+            skills: ["React", "Redux", "styleld-components"],
         },
         tools: {
             design: ["Photoshop", "Illustrator", "AfterEffect", "Figma"]
